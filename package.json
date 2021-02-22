@@ -1,0 +1,30 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "console Task Manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murillo555/TaskManager.git"
+  },
+  "keywords": [
+    "Task",
+    "Manager",
+    "TaskManager",
+    "console"
+  ],
+  "author": "Gabriel Murillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murillo555/TaskManager/issues"
+  },
+  "homepage": "https://github.com/murillo555/TaskManager#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.3",
+    "uuid": "^8.3.2"
+  }
+}
